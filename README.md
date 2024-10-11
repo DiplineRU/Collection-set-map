@@ -7,6 +7,8 @@ ru text
 
 Напишите код, с помощью которого можно напечатать только нечетные числа в консоль. Код должен работать с любой последовательностью и объемом списка чисел.
 В качестве отладочной информации можете использовать список чисел:
+
+
 List<Integer> nums = new ArrayList<>(List.of(1, 1, 2, 3, 4, 4, 5, 5, 6, 7))
 ​
 
@@ -15,6 +17,8 @@ List<Integer> nums = new ArrayList<>(List.of(1, 1, 2, 3, 4, 4, 5, 5, 6, 7))
 
 Напишите код, с помощью которого можно напечатать только четные числа без повторений в порядке возрастания. Код должен работать с любой последовательностью и объемом списка чисел.
 В качестве отладочной информации можете использовать список чисел:
+
+
 List<Integer> nums = new ArrayList<>(List.of(1, 1, 2, 3, 4, 4, 5, 5, 6, 7))
 ​
 
@@ -29,6 +33,8 @@ List<Integer> nums = new ArrayList<>(List.of(1, 1, 2, 3, 4, 4, 5, 5, 6, 7))
 
 Напишите код, который выводит в консоль количество дублей для каждого уникального слова. Код должен работать с любой последовательностью и объемом списка слов.
 В качестве отладочной информации используйте:
+
+
 List<String> strings = new ArrayList<>(List.of("один", "два","два", "три", "три", "три"));
 
 eng text
@@ -40,6 +46,8 @@ Task 1
 
 Write a code that can be used to print only odd numbers to the console. The code should work with any sequence and volume of the list of numbers.
 You can use a list of numbers as debugging information:
+
+
 List<Integer> nums = new ArrayList<>(List.of(1, 1, 2, 3, 4, 4, 5, 5, 6, 7))
 ​
 
@@ -48,6 +56,8 @@ Task 2
 
 Write a code that can be used to print only even numbers without repetitions in ascending order. The code should work with any sequence and volume of the list of numbers.
 You can use a list of numbers as debugging information:
+
+
 List<Integer> nums = new ArrayList<>(List.of(1, 1, 2, 3, 4, 4, 5, 5, 6, 7))
 ​
 
